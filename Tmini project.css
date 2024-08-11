@@ -1,0 +1,37 @@
+body{
+    background-image: url("/img/WhatsApp\ Image\ 2024-07-23\ at\ 23.08.36_64483897.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+ul{
+    color: white;
+    text-align: center;
+
+}
+li{
+    display: inline;
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    color: whitesmoke;
+    text-align: right;
+    padding-right: 200px;
+    padding-top: 200px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-right: 350px;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+    
+}
